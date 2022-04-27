@@ -32,5 +32,5 @@ The Polyglot Developer
 
 
 # Actual Developing Steps
-- [Server NDX](https://github.com/talenthandongsite/server-ndx): Forting [Server Legacy](https://github.com/talenthandongsite/server-legacy) to go code.
+- [Server NDX](https://github.com/talenthandongsite/server-ndx): Porting [Server Legacy](https://github.com/talenthandongsite/server-legacy) from TypeScript to Go code.
 - [Server Auth](https://github.com/talenthandongsite/server-auth): Authentication server of talent-handong.site
