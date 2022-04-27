@@ -32,4 +32,5 @@ The Polyglot Developer
 
 
 # Actual Developing Steps
-- To Be Delivered
+- [Server NDX](https://github.com/talenthandongsite/server-ndx): Forting [Server Legacy](https://github.com/talenthandongsite/server-legacy) to go code.
+- [Server Auth](https://github.com/talenthandongsite/server-auth): Authentication server of talent-handong.site
